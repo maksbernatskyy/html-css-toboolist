@@ -38,6 +38,7 @@ main{
     background-color: #fff;
     padding-left: 60px;
     padding-bottom: 40px;
+    border-radius: 10px;
 }
 
 /*Buttons*/
@@ -76,7 +77,7 @@ h2{
 }
 
 li{
-    margin: 15px 0px;
+    margin: 25px 0px;
 }
 
 .check{
@@ -95,3 +96,33 @@ li{
     padding: 3px;
 }
 
+.label{
+    color: #fff;
+    font-size: 10px;
+    padding: 8px;
+    border-radius: 12px;
+}
+
+.bg-lightblue{
+    background-color: #45abea;
+}
+
+.bg-purple{
+    background-color: #9c72e4;
+}
+
+.bg-green{
+    background-color: #64c0a9;
+}
+
+.bg-orange{
+    background-color: #f29e33;
+}
+
+.bg-rose{
+    background-color: #d863a1;
+}
+
+.bg-yellow{
+    background-color: #b0c926;
+}
