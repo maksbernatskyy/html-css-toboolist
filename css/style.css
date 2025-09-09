@@ -1,0 +1,20 @@
+/*Reset CSS*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Generics*/
+
+/*Header*/
+header{
+    padding: 15px;
+}
+
+h1{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 3px;
+}
