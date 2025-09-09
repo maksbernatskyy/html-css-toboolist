@@ -39,8 +39,11 @@ main{
     padding-left: 60px;
 }
 
+/*Buttons*/
+
 .add{
     padding: 10px 0px;
+    border-bottom: 4px solid #f6f8f9;
 }
 
 button{
@@ -59,4 +62,22 @@ button{
     color: #dcdfe3;
     background-color: #fff;
     border-color: #dcdfe3;
+}
+
+/*Lista*/
+
+ul{
+    list-style-type: none;
+}
+
+h2{
+    margin-top: 40px;
+}
+
+.check{
+    color: #67c1ab;
+}
+
+.cross{
+    color: #eb5952;
 }
