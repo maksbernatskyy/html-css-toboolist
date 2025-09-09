@@ -9,12 +9,54 @@
 /*Generics*/
 
 /*Header*/
+
+body{
+    font-family: sans-serif;
+    background-color: #f6f8f9;
+}
+
 header{
     padding: 15px;
+    background-color: #fff;
 }
 
 h1{
     display: inline-block;
     vertical-align: top;
-    padding-top: 3px;
+    font-size: 36px;
+}
+
+/*Main*/
+
+main{
+    margin-top: 50px;
+}
+
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding-left: 60px;
+}
+
+.add{
+    padding: 10px 0px;
+}
+
+button{
+    padding: 8px;
+    border-radius: 6px;
+    border-style: solid;
+}
+
+.bg-blue{
+    color: #fff;
+    background-color: #47adf1;
+    border-color: #47adf1;
+}
+
+.bg-gray{
+    color: #dcdfe3;
+    background-color: #fff;
+    border-color: #dcdfe3;
 }
